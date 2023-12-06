@@ -1,5 +1,5 @@
 # OCR_P2_Analyser_des_donnees_des_systmes_educatifs
-Analyser des données de systèmes éducatifs
+
 Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
 Voici les différentes questions que Mark aimerait explorer, que vous avez notées durant la réunion :
